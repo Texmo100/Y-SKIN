@@ -1,0 +1,2 @@
+[MeasureCPU]
+Measure=CPU
