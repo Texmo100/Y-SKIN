@@ -1,2 +1,0 @@
-[MeasurePhysMemUsed]
-Measure=PhysicalMemory
